@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Vector.cpp
+  VectorLib.cpp
+  Generating Code...
+C:\Users\joshu\Desktop\Vector3-Library\Vector3Lib\VectorLib\VectorLib\Vector.cpp(93,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Vector.cpp')
+  
+  VectorLib.vcxproj -> C:\Users\joshu\Desktop\Vector3-Library\Vector3Lib Test\Vector3 Static Lib Test\x64\Debug\VectorLib.lib

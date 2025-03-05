@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  Vector.cpp
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(93,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(115,13): warning C4244: 'argument': conversion from 'float' to '_Elem', possible loss of data
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(115,13): warning C4244:         with
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(115,13): warning C4244:         [
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(115,13): warning C4244:             _Elem=char
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(115,13): warning C4244:         ]
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(117,13): warning C4244: 'argument': conversion from 'float' to '_Elem', possible loss of data
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(117,13): warning C4244:         with
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(117,13): warning C4244:         [
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(117,13): warning C4244:             _Elem=char
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(117,13): warning C4244:         ]
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(119,13): warning C4244: 'argument': conversion from 'float' to '_Elem', possible loss of data
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(119,13): warning C4244:         with
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(119,13): warning C4244:         [
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(119,13): warning C4244:             _Elem=char
+C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\Vector.cpp(119,13): warning C4244:         ]
+  VectorLib.cpp
+  VectorLib.vcxproj -> C:\Users\joshu\Desktop\Vector3Lib\VectorLib\VectorLib\x64\Release\VectorLib.lib
